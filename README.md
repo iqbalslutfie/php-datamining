@@ -12,10 +12,10 @@ Fitur :
 -	Login
 
 Antarmuka :
-![Github Logo](/Github/3a.png)
+![Github Logo](/github/3a.png)
 
-![Github Logo](/Github/4a.png)
+![Github Logo](/github/4a.png)
 
-![Github Logo](/Github/5a.png)
+![Github Logo](/github/5a.png)
 
-![Github Logo](/Github/6a.png)
+![Github Logo](/github/6a.png)
