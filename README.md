@@ -1,5 +1,5 @@
 # php-datamining
-Aplikasi Penerapan Data Mining menggunakan metode klasifikasi berbasiskan web (PHP)
+Aplikasi Penerapan Data Mining menggunakan metode klasifikasi berbasiskan web (PHP-Native)
 
 Fitur :
 -	UI CMS Bootstrap 4
